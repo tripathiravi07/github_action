@@ -1,7 +1,7 @@
 variable "ami" {
-  default = "ami-0bcc094591f354be2"
+  default = "ami-0947d2ba12ee1ff75"
 }
 
 variable "instance_type" {
-  default = "t3.micro"
+  default = "t2.micro"
 }
